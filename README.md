@@ -4,5 +4,5 @@
 
 ## Set up React Native
 
-Please follow the official tutorial to set up React Native development: https://reactnative.dev/docs/environment-setup.
+Please follow the official tutorial to set up React Native development : https://reactnative.dev/docs/environment-setup.
 
